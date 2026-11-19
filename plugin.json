@@ -1,0 +1,21 @@
+{
+  "name": "iTunes Metadata",
+  "safe_name": "itunes-metadata",
+  "version": "1.0.0",
+  "author": "Audion Community",
+  "description": "Reference MetadataProvider searching global catalogs, fetching high-res covers, and providing rich track, album, and artist metadata.",
+  "type": "js",
+  "entry": "index.js",
+  "permissions": [
+    "network:fetch",
+    "storage:local"
+  ],
+  "category": "metadata",
+  "tags": [
+    "metadata",
+    "catalog",
+    "search",
+    "cover-art"
+  ],
+  "license": "MIT"
+}

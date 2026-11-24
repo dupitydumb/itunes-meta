@@ -1,9 +1,10 @@
 {
   "name": "iTunes Metadata",
   "safe_name": "itunes-metadata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Audion Community",
   "description": "Reference MetadataProvider searching global catalogs, fetching high-res covers, and providing rich track, album, and artist metadata.",
+  "icon": "itunes-macos-icon.240x240.png",
   "type": "js",
   "entry": "index.js",
   "permissions": [
